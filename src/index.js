@@ -4,9 +4,11 @@ import './index.css';
 import Calculator from './main/Calculator'
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<Calculator />, document.getElementById('root'));
+ReactDOM.render(
+    <div>
+        Calculadora
+        <Calculator />
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+    </div>
+, document.getElementById('root'));
+serviceWorker.register();
