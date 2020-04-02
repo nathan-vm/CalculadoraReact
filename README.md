@@ -1,3 +1,10 @@
+# React calculator
+ ![Imgur](https://i.imgur.com/DlCfIRp.png) 
+calculator with simples operations
+
+![Imgur](https://i.imgur.com/TA2zzTo.png)**+** ![Imgur](https://i.imgur.com/B0pznH5.png)**=**
+![Imgur](https://i.imgur.com/EJtnt61.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
